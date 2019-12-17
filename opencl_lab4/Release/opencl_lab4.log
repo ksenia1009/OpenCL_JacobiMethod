@@ -1,0 +1,15 @@
+﻿  BullseyeCoverage Compile C++ 8.15.42 Windows License 6960 
+  Copyright (c) Bullseye Testing Technology 1990-2019
+  source.cpp
+c:\users\pkumbras\source\repos\opencl_lab4\opencl_lab4\source.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\pkumbras\source\repos\opencl_lab4\opencl_lab4\source.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\pkumbras\source\repos\opencl_lab4\opencl_lab4\source.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\pkumbras\source\repos\opencl_lab4\opencl_lab4\source.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  BullseyeCoverage Link 8.15.42 Windows License 6960 
+  Copyright (c) Bullseye Testing Technology 1990-2019
+  Generating code
+  8 of 203 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  opencl_lab4.vcxproj -> C:\Users\pkumbras\source\repos\opencl_lab4\Release\opencl_lab4.exe

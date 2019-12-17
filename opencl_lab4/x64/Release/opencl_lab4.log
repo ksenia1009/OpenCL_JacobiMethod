@@ -1,0 +1,13 @@
+﻿Построение начато 14.12.2019 11:13:06.
+     1>Проект "C:\Users\Ksenia\Downloads\opencl_lab4\opencl_lab4\opencl_lab4\opencl_lab4.vcxproj" в узле 2 (целевые объекты Build).
+       Файл проекта содержит ToolsVersion="15.0". Возможно, этот набор инструментов неизвестен или отсутствует (в этом случае проблему можно устранить, установив подходящую версию MSBuild), либо для данной сборки определено конкретное значение ToolsVersion в параметрах политики. Проект обрабатывается как имеющий ToolsVersion="4.0". Дополнительные сведения см. по ссылке http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ksenia\Downloads\opencl_lab4\opencl_lab4\x64\Release\opencl_lab4.exe" /NOLOGO /LIBPATH:"C:\Program Files (x86)\IntelSWTools\OpenCL\sdk\lib\x64" OpenCL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\Ksenia\Downloads\opencl_lab4\opencl_lab4\x64\Release\opencl_lab4.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ksenia\Downloads\opencl_lab4\opencl_lab4\x64\Release\opencl_lab4.lib" /MACHINE:X64 x64\Release\source.obj
+         Создание кода
+         Создание кода завершено
+         opencl_lab4.vcxproj -> C:\Users\Ksenia\Downloads\opencl_lab4\opencl_lab4\x64\Release\opencl_lab4.exe
+     1>Построение проекта "C:\Users\Ksenia\Downloads\opencl_lab4\opencl_lab4\opencl_lab4\opencl_lab4.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.54
